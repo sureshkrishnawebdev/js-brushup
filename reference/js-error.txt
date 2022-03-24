@@ -1,0 +1,18 @@
+Note:
+----
+1. TypeError
+        - will stop only when code execution breaks
+        - logs will be printed until error
+
+2. ReferenceError
+        - will stop only when code execution breaks
+        - logs will be printed until error
+
+3. SyntaxError
+        - will stop only when code execution breaks
+        - no logs will be printed
+
+Hoisting:
+E1: arrowFnWithKeyword is not a function(TypeError)
+E2: Cannot access 'a' before initialization (ReferenceError)
+E3: Missing initializer in const declaration(SyntaxError)

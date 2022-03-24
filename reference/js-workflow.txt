@@ -1,0 +1,8 @@
+1. JS Execution context
+    - Memory creation and Code execution phases
+    - GE, fn invokation, call stack
+
+2. Hoisting - phenomenon by which we can access variables(var)/ fns(primitive)
+
+3. functions - heart of js
+            
